@@ -135,3 +135,4 @@ Preferred communication style: Simple, everyday language.
 - July 11, 2025: Increased payment amount from R$ 76,48 to R$ 176,68 with adjusted individual year amounts
 - July 13, 2025: Reduced payment amount from R$ 176,68 to R$ 118,68 with adjusted individual year amounts
 - July 17, 2025: Switched back to For4Payments API from Cashtime API using FOR4PAYMENTS_SECRET_KEY
+- July 17, 2025: Updated For4Payments API key per user request - system tested and confirmed working
